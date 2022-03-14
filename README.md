@@ -5,7 +5,7 @@ This is a Kaggle competition project. you can refer to link for this Kaggle comp
 Project object: 
 Twitter has become an important communication channel in times of emergency. Because of this, more agencies are interested in programatically monitoring Twitter. 
 But, it’s not always clear whether a person’s words are actually announcing a disaster.
-Thus, this project is aim to build machine learning model which can classify tweet sentiment, in order to seperate tweets into "real disaster announcing tweet" and "non-disaster announcing tweet" 
+Thus, this project is aim to build machine learning model which can classify tweet sentiment into "real disaster announcing tweet" and "non-disaster announcing tweet" 
 
 
 
